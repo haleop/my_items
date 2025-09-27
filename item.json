@@ -1,0 +1,17 @@
+[
+  {
+    "title": "تمرین صبحگاهی",
+    "description": "یک حرکت ساده برای شروع روز",
+    "imageUrl": "https://picsum.photos/seed/1/600/400"
+  },
+  {
+    "title": "مدیتیشن کوتاه",
+    "description": "۵ دقیقه تمرکز و تنفس",
+    "imageUrl": "https://picsum.photos/seed/2/600/400"
+  },
+  {
+    "title": "نوشیدنی سالم",
+    "description": "ترکیب میوه و آب برای انرژی",
+    "imageUrl": "https://picsum.photos/seed/3/600/400"
+  }
+]
